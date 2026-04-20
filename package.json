@@ -1,0 +1,15 @@
+{
+  "name": "text-analyzer",
+  "version": "1.0.0",
+  "description": "Analizador de texto en Node.js - Fundamentos de Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.21.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
